@@ -67,5 +67,5 @@ IP addresss-specific attributes.
 
 :class:`MACArray`
 -----------------
-utofun
+
 .. autoclass:: MACArray
